@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+color:tomato;
+font-size:30px;
+padding-right:20px;
+
+}
+
+h1 {
+    color:yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 70px;
+}
+.timer {
+border-radius: 20%;
+
+} 
+
+
+#button-start,
+#button-stop,
+#button-reset {
+    border-radius: 50%;
+}
+
+
+
